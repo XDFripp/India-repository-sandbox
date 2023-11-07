@@ -1,1 +1,10 @@
-# India-repository-sandbox
+# India First Repo
+
+## Exploring Github
+
+### Vocabulary
+
+-
+-
+-
+-
